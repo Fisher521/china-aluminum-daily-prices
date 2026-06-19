@@ -1,0 +1,7 @@
+date,ticker,source,value,unit,delta_pct
+2026-06-19,fob-6061,Formula · LME 3M + extrusion premium,4051.0000,USD/t,-6.637
+2026-06-19,fob-6063,Formula · LME 3M + extrusion premium,3781.0000,USD/t,-7.078
+2026-06-19,lme-3m,Yahoo Finance,3431.0000,USD/t,-7.744
+2026-06-19,USD/BRL,open.er-api.com,5.152273,,
+2026-06-19,USD/CNY,open.er-api.com,6.783567,,
+2026-06-19,USD/VND,open.er-api.com,26266.566416,,
