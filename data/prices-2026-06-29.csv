@@ -1,0 +1,7 @@
+date,ticker,source,value,unit,delta_pct
+2026-06-29,cj-a00,长江有色金属现货市场,22940.0000,CNY/t,0.262
+2026-06-29,shfe-al-front,SHFE via Sina Finance,23090.0000,CNY/t,-0.108
+2026-06-29,shfe-main,SHFE via Sina Finance,23090.0000,CNY/t,-0.108
+2026-06-29,USD/BRL,open.er-api.com,5.173169,,
+2026-06-29,USD/CNY,open.er-api.com,6.803731,,
+2026-06-29,USD/VND,open.er-api.com,26224.638740,,
