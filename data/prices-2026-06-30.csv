@@ -1,0 +1,10 @@
+date,ticker,source,value,unit,delta_pct
+2026-06-30,cj-a00,长江有色金属现货市场,22500.0000,CNY/t,-1.918
+2026-06-30,fob-6061,Formula · LME 3M + extrusion premium,3872.5000,USD/t,-10.307
+2026-06-30,fob-6063,Formula · LME 3M + extrusion premium,3602.5000,USD/t,-10.994
+2026-06-30,lme-3m,Yahoo Finance,3252.5000,USD/t,-12.035
+2026-06-30,shfe-al-front,SHFE via Sina Finance,22430.0000,CNY/t,-2.858
+2026-06-30,shfe-main,SHFE via Sina Finance,22430.0000,CNY/t,-2.858
+2026-06-30,USD/BRL,open.er-api.com,5.171430,,
+2026-06-30,USD/CNY,open.er-api.com,6.804421,,
+2026-06-30,USD/VND,open.er-api.com,26201.385460,,
