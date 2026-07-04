@@ -1,0 +1,6 @@
+date,ticker,source,value,unit,delta_pct
+2026-07-04,shfe-al-front,SHFE via Sina Finance,22795.0000,CNY/t,-0.066
+2026-07-04,shfe-main,SHFE via Sina Finance,22795.0000,CNY/t,-0.066
+2026-07-04,USD/BRL,open.er-api.com,5.201150,,
+2026-07-04,USD/CNY,open.er-api.com,6.790713,,
+2026-07-04,USD/VND,open.er-api.com,26244.106613,,
