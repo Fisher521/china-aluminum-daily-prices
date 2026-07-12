@@ -1,0 +1,17 @@
+date,ticker,source,value,unit,delta_pct
+2026-07-12,FBX01,freightos_fbx,3979.6000,USD/40ft,0.028
+2026-07-12,FBX02,freightos_fbx,426.0000,USD/40ft,3.148
+2026-07-12,FBX03,freightos_fbx,9140.0000,USD/40ft,5.848
+2026-07-12,FBX04,freightos_fbx,533.0000,USD/40ft,-5.830
+2026-07-12,FBX11,freightos_fbx,5831.0000,USD/40ft,8.302
+2026-07-12,FBX12,freightos_fbx,557.0000,USD/40ft,-3.966
+2026-07-12,FBX13,freightos_fbx,7160.0000,USD/40ft,0.845
+2026-07-12,FBX14,freightos_fbx,669.0000,USD/40ft,36.810
+2026-07-12,FBX21,freightos_fbx,537.0000,USD/40ft,1.512
+2026-07-12,FBX22,freightos_fbx,2116.0000,USD/40ft,-7.920
+2026-07-12,FBX24,freightos_fbx,1297.0000,USD/40ft,3.760
+2026-07-12,FBX26,freightos_fbx,2475.0000,USD/40ft,-1.786
+2026-07-12,frt-hcmc,Estimated · FBX01 × 0.42 (no public SH→HCMC index),1671.0000,USD/40ft,0.000
+2026-07-12,USD/BRL,open.er-api.com,5.115585,,
+2026-07-12,USD/CNY,open.er-api.com,6.789990,,
+2026-07-12,USD/VND,open.er-api.com,26214.471817,,
