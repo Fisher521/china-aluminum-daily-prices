@@ -1,0 +1,44 @@
+date,ticker,source,value,unit,delta_pct
+2026-07-24,cj-a00,长江有色金属现货市场,23200.0000,CNY/t,-0.258
+2026-07-24,FBX01,freightos_fbx,3852.8000,USD/40ft,0.000
+2026-07-24,FBX02,freightos_fbx,429.0000,USD/40ft,0.000
+2026-07-24,FBX03,freightos_fbx,9102.0000,USD/40ft,0.000
+2026-07-24,FBX04,freightos_fbx,526.0000,USD/40ft,0.000
+2026-07-24,FBX11,freightos_fbx,5740.0000,USD/40ft,0.000
+2026-07-24,FBX12,freightos_fbx,548.0000,USD/40ft,0.000
+2026-07-24,FBX13,freightos_fbx,6852.0000,USD/40ft,0.000
+2026-07-24,FBX14,freightos_fbx,675.0000,USD/40ft,0.000
+2026-07-24,FBX21,freightos_fbx,532.0000,USD/40ft,0.000
+2026-07-24,FBX22,freightos_fbx,2068.0000,USD/40ft,0.000
+2026-07-24,FBX24,freightos_fbx,1256.0000,USD/40ft,0.000
+2026-07-24,FBX26,freightos_fbx,2469.0000,USD/40ft,0.000
+2026-07-24,frt-hcmc,Estimated · FBX01 × 0.42 (no public SH→HCMC index),1618.0000,USD/40ft,0.000
+2026-07-24,shfe-al-front,SHFE via Sina Finance,23185.0000,CNY/t,-0.429
+2026-07-24,shfe-main,SHFE via Sina Finance,23185.0000,CNY/t,-0.429
+2026-07-24,AUD/CNY,PBOC via chinamoney.com.cn,4.730400,,
+2026-07-24,CAD/CNY,PBOC via chinamoney.com.cn,4.818800,,
+2026-07-24,CHF/CNY,PBOC via chinamoney.com.cn,8.312500,,
+2026-07-24,CNY/AED,PBOC via chinamoney.com.cn,0.541220,,
+2026-07-24,CNY/DKK,PBOC via chinamoney.com.cn,0.967900,,
+2026-07-24,CNY/HUF,PBOC via chinamoney.com.cn,47.166500,,
+2026-07-24,CNY/KRW,PBOC via chinamoney.com.cn,217.210000,,
+2026-07-24,CNY/MOP,PBOC via chinamoney.com.cn,1.189400,,
+2026-07-24,CNY/MXN,PBOC via chinamoney.com.cn,2.579100,,
+2026-07-24,CNY/MYR,PBOC via chinamoney.com.cn,0.602730,,
+2026-07-24,CNY/NOK,PBOC via chinamoney.com.cn,1.416400,,
+2026-07-24,CNY/PLN,PBOC via chinamoney.com.cn,0.560520,,
+2026-07-24,CNY/RUB,PBOC via chinamoney.com.cn,11.557800,,
+2026-07-24,CNY/SAR,PBOC via chinamoney.com.cn,0.553120,,
+2026-07-24,CNY/SEK,PBOC via chinamoney.com.cn,1.437300,,
+2026-07-24,CNY/THB,PBOC via chinamoney.com.cn,4.988200,,
+2026-07-24,CNY/TRY,PBOC via chinamoney.com.cn,6.968580,,
+2026-07-24,CNY/ZAR,PBOC via chinamoney.com.cn,2.475700,,
+2026-07-24,EUR/CNY,PBOC via chinamoney.com.cn,7.723700,,
+2026-07-24,GBP/CNY,PBOC via chinamoney.com.cn,9.037800,,
+2026-07-24,HKD/CNY,PBOC via chinamoney.com.cn,0.866370,,
+2026-07-24,JPY/CNY,PBOC via chinamoney.com.cn,0.041447,,
+2026-07-24,NZD/CNY,PBOC via chinamoney.com.cn,3.920000,,
+2026-07-24,SGD/CNY,PBOC via chinamoney.com.cn,5.250100,,
+2026-07-24,USD/BRL,open.er-api.com,5.074167,,
+2026-07-24,USD/CNY,PBOC via chinamoney.com.cn,6.793900,,
+2026-07-24,USD/VND,open.er-api.com,26250.538817,,
