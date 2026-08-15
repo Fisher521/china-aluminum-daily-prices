@@ -1,0 +1,19 @@
+date,ticker,source,value,unit,delta_pct
+2026-08-15,FBX01,freightos_fbx,3686.5000,USD/40ft,2.204
+2026-08-15,FBX02,freightos_fbx,374.0000,USD/40ft,0.000
+2026-08-15,FBX03,freightos_fbx,9144.0000,USD/40ft,0.000
+2026-08-15,FBX04,freightos_fbx,487.0000,USD/40ft,0.000
+2026-08-15,FBX11,freightos_fbx,5085.0000,USD/40ft,0.000
+2026-08-15,FBX12,freightos_fbx,522.0000,USD/40ft,0.000
+2026-08-15,FBX13,freightos_fbx,6067.0000,USD/40ft,0.000
+2026-08-15,FBX14,freightos_fbx,456.0000,USD/40ft,0.000
+2026-08-15,FBX21,freightos_fbx,444.0000,USD/40ft,0.000
+2026-08-15,FBX22,freightos_fbx,2244.0000,USD/40ft,0.000
+2026-08-15,FBX24,freightos_fbx,1246.0000,USD/40ft,0.000
+2026-08-15,FBX26,freightos_fbx,2464.0000,USD/40ft,0.000
+2026-08-15,frt-hcmc,Estimated · FBX01 × 0.42 (no public SH→HCMC index),1548.0000,USD/40ft,2.178
+2026-08-15,shfe-al-front,SHFE via Sina Finance,23965.0000,CNY/t,0.398
+2026-08-15,shfe-main,SHFE via Sina Finance,23965.0000,CNY/t,0.398
+2026-08-15,USD/BRL,open.er-api.com,5.184431,,
+2026-08-15,USD/CNY,open.er-api.com,6.755647,,
+2026-08-15,USD/VND,open.er-api.com,26097.989727,,
