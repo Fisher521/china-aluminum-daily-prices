@@ -1,0 +1,23 @@
+date,ticker,source,value,unit,delta_pct
+2026-08-17,cj-a00,长江有色金属现货市场,24070.0000,CNY/t,0.838
+2026-08-17,FBX01,freightos_fbx,3689.8000,USD/40ft,0.000
+2026-08-17,FBX02,freightos_fbx,353.0000,USD/40ft,0.000
+2026-08-17,FBX03,freightos_fbx,9422.0000,USD/40ft,0.000
+2026-08-17,FBX04,freightos_fbx,523.0000,USD/40ft,0.000
+2026-08-17,FBX11,freightos_fbx,5009.0000,USD/40ft,0.000
+2026-08-17,FBX12,freightos_fbx,531.0000,USD/40ft,0.000
+2026-08-17,FBX13,freightos_fbx,5830.0000,USD/40ft,0.000
+2026-08-17,FBX14,freightos_fbx,432.0000,USD/40ft,0.000
+2026-08-17,FBX21,freightos_fbx,469.0000,USD/40ft,0.000
+2026-08-17,FBX22,freightos_fbx,2240.0000,USD/40ft,0.000
+2026-08-17,FBX24,freightos_fbx,1254.0000,USD/40ft,0.000
+2026-08-17,FBX26,freightos_fbx,2466.0000,USD/40ft,0.000
+2026-08-17,fob-6061,Formula · LME 3M + extrusion premium,4069.7500,USD/t,2.371
+2026-08-17,fob-6063,Formula · LME 3M + extrusion premium,3799.7500,USD/t,2.544
+2026-08-17,frt-hcmc,Estimated · FBX01 × 0.42 (no public SH→HCMC index),1550.0000,USD/40ft,0.000
+2026-08-17,lme-3m,Yahoo Finance,3449.7500,USD/t,2.809
+2026-08-17,shfe-al-front,SHFE via Sina Finance,24050.0000,CNY/t,0.355
+2026-08-17,shfe-main,SHFE via Sina Finance,24050.0000,CNY/t,0.355
+2026-08-17,USD/BRL,open.er-api.com,5.183604,,
+2026-08-17,USD/CNY,open.er-api.com,6.748651,,
+2026-08-17,USD/VND,open.er-api.com,26065.195054,,
